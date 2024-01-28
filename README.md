@@ -30,7 +30,7 @@ You can install by following these steps:
 - Navigate to `chrome://extensions`.
 - Click the toggle and enable **Developer mode**.
 - Select **Load Unpacked**.
-- Select the **lapis-google-chrome** folder to install.
+- Select the **lapis-google-chrome-2.0** folder to install.
 
 ## 🛳 Lapis Theme Ports
 
